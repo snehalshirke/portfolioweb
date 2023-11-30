@@ -596,6 +596,7 @@ header {
   border-radius: 1.5rem;
   cursor: pointer;
   margin-left: 2rem;
+  display: none;
 }
 
 /* The Modal (background) */
